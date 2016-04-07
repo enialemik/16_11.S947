@@ -1,0 +1,179 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: Esri ArcMap 10.3.1.4959
+%%CreationDate: 03/14/16 10:06 AM
+%%Title: (Esri ArcMap 10.3.1.4959 export file)
+%%BoundingBox: 0 0 943 832 
+%%HiResBoundingBox: 0 0 942.00945 831.74173
+%AI5_ArtSize: 942 832 
+%%Pages: 1
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%%ColorUsage: Color
+%%EndComments
+
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+    Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+
+%%BeginSetup
+    Adobe_cmykcolor /initialize get exec
+    Adobe_cshow /initialize get exec
+    Adobe_customcolor /initialize get exec
+    Adobe_typography_AI3 /initialize get exec
+    Adobe_IllustratorA_AI3 /initialize get exec
+%AI5_BeginPalette
+0 0 Pb
+0 0.43922 1 Xa
+Pc
+1 0 0 Xa
+Pc
+0.51765 0 0.65882 Xa
+Pc
+1 1 0 Xa
+Pc
+0.29804 0.90196 0 Xa
+Pc
+1 0.66667 0 Xa
+Pc
+PB
+%AI5_EndPalette
+%%EndSetup
+
+%%Page: 1
+%%BeginPageSetup
+ 3.85 M
+    0 j
+    0 J
+    0 O
+    0 R
+    0 A
+ 0.72 w
+%%EndPageSetup
+0 0 0 XA
+1 1 1 Xa
+1 1 1 1 0 0 0 79 128 255 Lb
+(Layers) Ln
+1 1 1 1 0 0 0 79 128 255 Lb
+(ArriyadhMetroLines) Ln
+q
+0 831.74173 m
+0 0.01417 l
+942.00945 0.01417 l
+942.00945 831.74173 l
+0 831.74173 l
+h W n
+0 0.43922 1 XA
+11.99944 w
+1 j
+1 J
+10 M
+324.94485 569.93713 m
+374.86253 463.6315 l
+370.54273 451.39315 l
+376.06247 441.55448 l
+390.22181 440.59461 l
+427.90005 353.24642 l
+462.93842 279.57638 l
+472.77796 269.97768 l
+474.21789 262.53868 l
+477.09776 254.61975 l
+504.45649 165.11185 l
+517.65587 133.19617 l
+530.13529 141.1151 l
+541.41476 121.91769 l
+579.33299 49.44749 l
+563.97371 41.52856 l
+565.89362 37.92905 l
+S
+1 0 0 XA
+465.81829 793.82686 m
+510.21622 718.71701 l
+450.69899 683.44178 l
+501.33663 565.85768 l
+487.89726 532.98212 l
+367.90285 478.50949 l
+S
+0.51765 0 0.65882 XA
+373.90257 462.67163 m
+366.9429 477.54962 l
+487.17729 532.02225 l
+498.45676 506.58569 l
+495.5769 498.42679 l
+505.17645 494.34735 l
+507.81633 488.10819 l
+564.93367 514.50462 l
+603.57187 451.15318 l
+602.37192 450.19331 l
+631.17058 406.99915 l
+626.85078 404.35951 l
+670.76873 336.92863 l
+S
+1 1 0 XA
+687.08797 502.02631 m
+679.40833 497.22696 l
+666.92891 516.18439 l
+609.3316 477.30965 l
+589.65251 473.9501 l
+580.29295 465.31127 l
+561.81381 457.15237 l
+359.50324 364.76486 l
+343.42399 346.52733 l
+S
+0.29804 0.90196 0 XA
+455.73876 408.91889 m
+480.21762 363.08509 l
+475.65783 356.366 l
+495.5769 348.2071 l
+494.85693 259.17914 l
+485.49737 227.50342 l
+S
+1 0.66667 0 XA
+732.68585 392.6011 m
+732.92584 382.2825 l
+727.88607 375.5634 l
+670.76873 336.92863 l
+619.8911 311.49207 l
+590.61247 301.17346 l
+547.89446 282.93593 l
+539.01487 267.33803 l
+530.85525 266.37816 l
+534.93506 229.42316 l
+525.09552 229.42316 l
+494.13697 212.8654 l
+464.85833 192.94809 l
+435.81968 182.62949 l
+430.05995 182.38952 l
+425.26018 183.58936 l
+411.58081 183.58936 l
+312.46543 117.35831 l
+306.22573 113.7588 l
+298.06611 111.59909 l
+282.46683 133.6761 l
+276.46711 130.55653 l
+209.03026 136.55571 l
+217.18988 146.87432 l
+235.909 145.19455 l
+S
+Q
+LB
+LB
+%%PageTrailer
+    gsave annotatepage grestore showpage
+%%Trailer
+    Adobe_IllustratorA_AI3 /terminate get exec
+    Adobe_typography_AI3 /terminate get exec
+    Adobe_customcolor /terminate get exec
+    Adobe_cshow /terminate get exec
+    Adobe_cmykcolor /terminate get exec
+    Adobe_packedarray /terminate get exec
+%%EOF
